@@ -1,0 +1,26 @@
+<annotation>
+  <folder>drive-download-20191102T200043Z-001</folder>
+  <filename>1572631049009</filename>
+  <path>C:/Users/michael milam/Desktop/PRE-Annot p1w6grasshopper/Week 6 Lab Photos pre-annot/drive-download-20191102T200043Z-001/1572631049009.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>p1w6grasshopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>871</xmin>
+      <ymin>449</ymin>
+      <xmax>1153</xmax>
+      <ymax>599</ymax>
+    </bndbox>
+  </object>
+</annotation>

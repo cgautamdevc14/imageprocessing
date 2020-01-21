@@ -1,0 +1,50 @@
+<annotation>
+	<folder>jpg Files</folder>
+	<filename>1572626136019.jpg</filename>
+	<path>/Users/gautamdevchowdary/Desktop/Images/drive-download-20191021T213733Z-001/jpg Files/1572626136019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p1w6grasshopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1508</xmin>
+			<ymin>133</ymin>
+			<xmax>1752</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p1w6grasshopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1693</xmin>
+			<ymin>37</ymin>
+			<xmax>1882</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>p1w6grasshopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1551</xmin>
+			<ymin>430</ymin>
+			<xmax>1688</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>
